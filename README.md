@@ -54,21 +54,6 @@ I'm a passionate **Backend Developer & AI Enthusiast** with experience in **Pyth
 </p>
 
 
-![Copy gif](https://media.giphy.com/media/SA5uw3Td33qF4FGIlY/giphy.gif)
-## 👉🏽 Click the copy icon in the upper right hand corner below to copy the template:
-
-
-
-## Get in Touch 📬
-
-- **[Personal Website / Blog]**(your_website_or_blog_link)
-- **[LinkedIn]**(your_linkedin_profile_link)
-- **[Twitter]**(your_twitter_profile_link)
-
-
-
-
-
 ## Additional Resources 💡:
 - [How to create a GitHub Profile README](https://dev.to/github/how-to-create-a-github-profile-readme-jha)
 - [Beautify your GitHub Profile README with badges, shields, stats and more](https://github.com/rzashakeri/beautify-github-profile)
