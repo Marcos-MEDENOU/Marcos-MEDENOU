@@ -46,9 +46,9 @@ I'm a passionate **Backend Developer & AI Enthusiast** with experience in **Pyth
 
 ## Get in Touch 📬
 
-[![Website](https://img.shields.io/badge/-My%20Website-000?style=flat-square&logo=firefox-browser&logoColor=white)](https://yourwebsite.com)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)  
+[![Website](https://img.shields.io/badge/-My%20Website-000?style=flat-square&logo=firefox-browser&logoColor=white)](https://yourwebsite.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:youremail@example.com)
 
 
